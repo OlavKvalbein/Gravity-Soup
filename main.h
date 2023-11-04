@@ -27,7 +27,7 @@ void rk4(f64 dt);
 #define FPATH_LENGTH_MAX	150
 #define N_FRAMES_MAX		99
 
-#define DIR_PATH	"images/clamp25"
+#define DIR_PATH	"images"
 #define IMG_WIDTH	800
 #define IMG_HEIGHT	800
 #define ANIMATION	true
